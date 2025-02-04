@@ -24,12 +24,6 @@ A fun Python project using the `turtle` module to simulate a racing game where m
 - Implement different race modes.
 - Enhance graphics for a better visual experience.
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
-
-## License
-This project is open-source and available under the MIT License.
-
 ---
 **Author:** [Filip Matevski](https://github.com/Filip9205)
 
